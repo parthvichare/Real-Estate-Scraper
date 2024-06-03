@@ -13,6 +13,7 @@ class RealEstateScraper:
         self.password = password
         self.driver = webdriver.Chrome()
     
+# Login Authetication 
     def login(self):
         try:
             # Navigate to the MagicBricks login page
