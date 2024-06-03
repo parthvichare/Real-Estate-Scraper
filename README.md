@@ -4,8 +4,8 @@ This project scrapes real estate data from MagicBricks using Selenium and Beauti
 
 ## Installation
 
--git clone https://github.com/parthvichare/Real-Estate-DashBoard.git
--cd RealEstateScraper
+- git clone https://github.com/parthvichare/Real-Estate-DashBoard.git
+- cd RealEstateScraper
 
 ## Prerequisites
 
