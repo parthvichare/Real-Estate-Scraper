@@ -130,8 +130,8 @@ class RealEstateScraper:
             self.driver.quit()
 
 if __name__ == "__main__":
-    username = int(input('Enter your Number'))
-    password = input('Enter your password')
+    username = int(input('Enter your Number :'))
+    password = input('Enter your password :')
     cities = ["Ahmedabad", "Bengaluru", "Chennai", "Delhi", "Gurgaon", "Kolkata", "Mumbai", "Pune"]
     scraper = RealEstateScraper(username, password)
     scraper.login()

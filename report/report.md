@@ -1,3 +1,5 @@
+# Documentation of the Real_Estate Scraping project
+
 # 1. Decription of the Website 
 Magicbrick one of the real-estate websited in India. It provides service to buyers and sellers & rentals to search for various types of properties, including resendital,apartment, houses according to the desires states,cities
 
